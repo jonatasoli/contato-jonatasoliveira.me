@@ -1,0 +1,14 @@
+.env
+.idea/
+.cache/*
+.vscode
+uploads/*
+!uploads/README
+logs/*
+!logs/README
+__pycache__
+.DS_Store
+*.db
+ngrok
+dump.rdb
+*.pid
